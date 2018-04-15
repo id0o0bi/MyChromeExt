@@ -1,0 +1,4 @@
+body, .course-menu, .pl-input-inner, .sortlist, 
+.pl-input-inner textarea, .course-tool-bar {
+    background: black!important;
+}
